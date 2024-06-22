@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m-k-yadav
+- 👋 Hi, I’m Manish
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Web Dev
 - 📫 How to reach me, drop a mail on syinspird@gmail.com
