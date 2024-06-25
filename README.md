@@ -2,7 +2,6 @@
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Web Dev
 - 📫 How to reach me, drop a mail on syinspird@gmail.com
-- 😄 Pronouns: Manish
 - Linkedin: https://www.linkedin.com/in/manish-kumar-yadav-3b5635b8
 
 <!---
